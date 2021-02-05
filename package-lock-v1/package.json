@@ -1,0 +1,9 @@
+{
+  "name": "package-lock-v1",
+  "version": "1.0.0",
+  "author": "Nitay Neeman",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
